@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdul Samad
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development e
 - 🌱 I’m c MERN stack developer
 - 💞️ I’m looking to for oppertunity to contribute in the web industry
 - 📫 for collabration as03489822@gmail.com (Email)
